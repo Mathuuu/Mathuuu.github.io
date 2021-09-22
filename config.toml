@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Joyal Francis T J"
+title = "Mathew Sunny"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Joyal Francis T J"
-description = "Joyal's personal website"
+author = "Mathew Sunny"
+description = "Mathew's personal website"
 keywords = "blog,developer,personal"
-info = ["Learning Facilitator @ TinkerHub", ]
+info = ["Student @ CEC", "Future Techy"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = "More Details @ Instagram"
